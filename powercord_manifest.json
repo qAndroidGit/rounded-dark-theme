@@ -1,0 +1,8 @@
+{
+	"name": "Rounded Dark Theme",
+	"description": "Dark Theme for discord, with rounded corners",
+	"author": "Андроид#1593",
+	"version": "1.0.0",
+	"license": "qAndroid",
+	"theme": "theme.css"
+}
