@@ -7,6 +7,8 @@ This my first theme <o/
 3) Write `git clone https://github.com/qAndroidGit/rounded-dark-theme`
 4) Restart your discord.
 
-![Dark Color](https://imgur.com/VSp2n1c)
+![Dark Color](https://i.imgur.com/VSp2n1c.png)
 
-![Rounded Corners](https://imgur.com/h7Fvp5Y)
+![Rounded Corners](https://i.imgur.com/h7Fvp5Y.png)
+
+![Gradient in profile](https://i.imgur.com/WTXLHh6.png)
