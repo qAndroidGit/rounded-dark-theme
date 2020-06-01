@@ -41,6 +41,15 @@
 .videoGridWrapper-2BDlMX{
   background-color: #202225;
 }
+.tabBody-3YRQ8W{
+  background-color: #202225;
+}
+.nowPlayingScroller-2XrVUt{
+  background-color: #202225;
+}
+.momentum-2CXCBH{
+  background-color: #202225;
+}
 .privateChannels-1nO12o{
   background-color: #202225;
 }
@@ -72,6 +81,9 @@
   background-color: #202225;
 }
 .form-2fGMdU:before{
+  opacity: 0;
+}
+.children-19S4PO:after{
   opacity: 0;
 }
 .flexCenter-2Y_vCg{
@@ -111,4 +123,3 @@
 .slateTextArea-1Mkdgw{
   width: 300px;
 }
-
