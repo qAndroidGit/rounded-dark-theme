@@ -119,6 +119,9 @@
   border-radius: 24px;
   background-color: #202225;
 }
+.scrollerFade-1Ijw5y{
+  background-color: #202225;
+}
 /* width/height */
 .root-SR8cQa{
   width: 900px;
@@ -143,4 +146,25 @@
 }
 .fontSize16Padding-3Wk7zP{
   top: 0px;
+}
+/* Profile */
+.headerInfo-30uryT{
+  padding-left: 200px;
+  padding-right: 0px;
+  right: 20px;
+}
+.avatar-3EQepX{
+  left: 200px;
+}
+.additionalActionsIcon-1FoUlE{
+  margin-right: 150px;
+}
+.top-28JiJ- .selected-3s45Ha.themed-OHr7kt.item-PXvHYJ{
+  left: 200px;
+}
+.top-28JiJ- .item-PXvHYJ{
+  left: 250px;
+}
+.top-28JiJ- .selected-3s45Ha.themed-OHr7kt.item-PXvHYJ{
+  left: 250px;
 }
