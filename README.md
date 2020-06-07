@@ -9,7 +9,7 @@ This my first theme <o/
 
 OR (easy)
 
-1) Write in your custom css file this - `https://qandroidgit.github.io/rounded-dark-theme/theme.css`
+1) Write in your custom css file this - `@import url("https://qandroidgit.github.io/rounded-dark-theme/theme.css")`
 
 
 # Screenshots (old)
