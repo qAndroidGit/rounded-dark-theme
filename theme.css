@@ -203,3 +203,19 @@
 .top-28JiJ- .selected-3s45Ha.themed-OHr7kt.item-PXvHYJ{
   left: 250px;
 }
+.theme-dark .container-3ayLPN {
+  border-radius: 20px;
+  background-color: #202225;
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker {
+  background-color: #202225;
+}
+.theme-dark .option-96V44q:after {
+  display: none;
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {
+  background-color: #202225;
+}
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {{
+  background-color: #202225;
+}
