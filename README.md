@@ -13,22 +13,13 @@ OR (easy)
 
 
 # Modules
-- Large Emoji Picker - `Coming Soon...`
+- Large Emoji Picker - `@import url("https://qandroidgit.github.io/rounded-dark-theme/modules/LargeEmojiPicker.css.")`
 
 
 
 # Contacts
 
 **Discord** — `Андроид#2024 (Id: 329535901938089995)`
-
-
-# Screenshots (old)
-
-![Dark Color](https://i.imgur.com/VSp2n1c.png)
-
-![Rounded Corners](https://i.imgur.com/h7Fvp5Y.png)
-
-![Gradient in profile](https://i.imgur.com/WTXLHh6.png)
-
+**Telegram** — `@andrxrd`
 
 
