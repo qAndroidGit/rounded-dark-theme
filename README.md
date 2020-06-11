@@ -19,3 +19,8 @@ OR (easy)
 ![Rounded Corners](https://i.imgur.com/h7Fvp5Y.png)
 
 ![Gradient in profile](https://i.imgur.com/WTXLHh6.png)
+
+
+# Contacts
+
+**Discord** — `Андроид#1593`
