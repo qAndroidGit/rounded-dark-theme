@@ -19,7 +19,7 @@ OR (easy)
 
 # Contacts
 
-**Discord** — `Андроид#1593`
+**Discord** — `Андроид#2024 (Id: 329535901938089995)`
 
 
 # Screenshots (old)
