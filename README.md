@@ -13,7 +13,7 @@ OR (easy)
 
 
 # Modules
-- Large Emoji Picker - `@import url("https://qandroidgit.github.io/rounded-dark-theme/modules/Large%20Emoji%20Picker.css")`
+- Large Emoji Picker - `Coming Soon...`
 
 
 
