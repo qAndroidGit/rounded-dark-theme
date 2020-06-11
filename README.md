@@ -12,6 +12,16 @@ OR (easy)
 1) Write in your custom css file this - `@import url("https://qandroidgit.github.io/rounded-dark-theme/theme.css")`
 
 
+# Modules
+- Large Emoji Picker - `@import url("https://qandroidgit.github.io/rounded-dark-theme/modules/Large Emoji Picker")`
+
+
+
+# Contacts
+
+**Discord** — `Андроид#1593`
+
+
 # Screenshots (old)
 
 ![Dark Color](https://i.imgur.com/VSp2n1c.png)
@@ -21,6 +31,4 @@ OR (easy)
 ![Gradient in profile](https://i.imgur.com/WTXLHh6.png)
 
 
-# Contacts
 
-**Discord** — `Андроид#1593`
