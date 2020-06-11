@@ -304,27 +304,33 @@ background-color:#202225;
 .header-1TOWci{
 background-color:#202225;
 }
-
-.medium-2-DE5M .input-1Rv96N, .medium-2-DE5M .tag-2gHSR7 {
-  background-color:#17181A;
-  border-radius: 24px;
+/* Not my css */
+.userInfoViewing-16kqK3 .flex-1xMQg5 .flexChild-faoVW3 .marginBottom20-32qID7 + div .selectable-2GY4I1 {
+    filter: blur(5px);
+    transition: filter .5s;
 }
 
-.contentWrapper-2txmjs{
-  width: 800px;
-  right: 390px;
+.userInfoViewing-16kqK3 .flex-1xMQg5 .flexChild-faoVW3 .marginBottom20-32qID7 + div .selectable-2GY4I1:hover{
+    filter: blur(0);
+}
+/* 264062457448759296 thx*/
+
+.messageGroupCozy-2Bj3ME{
+  background-color:#202225;
 }
 
-.navButton-3Mnpqt {
-  left: 290px;
+.searchResult-2N9RV4:after {
+  display: none;
 }
 
-.medium-2-DE5M .input-1Rv96N, .medium-2-DE5M .tag-2gHSR7 {
-  text-align: center;
+.searchResult-2N9RV4:before {
+  display: none;
 }
 
-.input-3Xdcic{
-  background-color: #17181A;
-  border-radius: 24px;
-  text-align: center;
+.channelName-wvgELL{
+  background-color:#202225;
+}
+
+.searchHeader-1EzJGH{
+  background-color:#202225;
 }
