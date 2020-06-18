@@ -7,14 +7,18 @@ This my first theme <o/
 3) Write `git clone https://github.com/qAndroidGit/rounded-dark-theme`
 4) Restart your discord.
 
-OR (easy)
+OR (recommended)
 
 1) Write in your custom css file this - `@import url("https://qandroidgit.github.io/rounded-dark-theme/theme.css")`
 
 
 # Modules
-- Large Emoji Picker - `@import url("https://qandroidgit.github.io/rounded-dark-theme/modules/LargeEmojiPicker.css")`
+- Large Emoji Picker (broken) - `@import url("https://qandroidgit.github.io/rounded-dark-theme/modules/LargeEmojiPicker.css")`
 
+# Colors & Other
+Main - #202225
+Secondary - #1c1e20;
+Smooth borders - 24px;
 
 
 # Contacts
