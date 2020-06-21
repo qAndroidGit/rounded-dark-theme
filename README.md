@@ -16,7 +16,8 @@ OR (recommended)
 - Large Emoji Picker (broken) - `@import url("https://qandroidgit.github.io/rounded-dark-theme/modules/LargeEmojiPicker.css")`
 
 # Colors & Other
-Main - #202225
+
+Main - #202225;
 Secondary - #1c1e20;
 Smooth borders - 24px;
 
