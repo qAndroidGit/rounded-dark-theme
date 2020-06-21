@@ -18,7 +18,9 @@ OR (recommended)
 # Colors & Other
 
 Main - #202225;
+
 Secondary - #1c1e20;
+
 Smooth borders - 24px;
 
 
