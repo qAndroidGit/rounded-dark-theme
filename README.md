@@ -2,12 +2,6 @@
 This my first theme <o/
 
 # How to install?
-1) Open console
-2) Write `cd powercord\src\Powercord\themes` (for windows)
-3) Write `git clone https://github.com/qAndroidGit/rounded-dark-theme`
-4) Restart your discord.
-
-OR (recommended)
 
 1) Write in your custom css file this - `@import url("https://qandroidgit.github.io/rounded-dark-theme/theme.css")`
 
