@@ -9,7 +9,7 @@ This my first theme <o/
 # Modules
 - Large Emoji Picker - `@import url("https://qandroidgit.github.io/rounded-dark-theme/modules/LargeEmojiPicker.css")`
 
-- Small Settings - `@import url("https://qandroidgit.github.io/rounded-dark-theme/modules/SmallSettings.css")`
+- Small Settings - `Comming Soon`
 
 # Colors & Other
 
